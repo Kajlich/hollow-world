@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Jammed together this Reddit convo and headed out from there</h>
+You say you want to contribute in this space but learning a programming language by itself definitely won't be enough.
+Instead, what you have to learn is how to think about new problems; Where to find new problems to solve, what problems are worth solving, and what aren't. Because when you think about it (and Peter Todd said this best): mostly all blockchain devs are really just academics who have the added ability that they can also implement their ideas / research as production code.
+As for technical skills - they will still be necessary. Programming will be how you solve real world problems Pick up something and stick with it.
+If a book isn't working for you try another book as the right combination of words will be like a spell to unlock the concept
+
+In my opinion you really can't go wrong with Javascript / Nodejs for a beginner. Stay away from complex languages like C++ for now and pick yourself up a good book on Nodejs development. It will allow you to contribute to some very high quality software at every facet of modern software development and as an added bonus Solidity (which is one of the main languages used to write "smart contracts" in Ethereum) is largely the same as Javascript / Nodejs type code.
+Most of all, play around. ers go home after work and write interesting software just because they find it fun. If what you're doing with code isn't fun then you should definitely try find something in the domain that you find interesting because none of us were forcing ourselves to do this going into it. We got into software because it was something we loved :)
+Hope that helps
+		permalinkembedreport
+
+load more comments (2 replies)
+		
+Theory is more important than code when coding, strangely enough.
+
+In any case, I would try to keep blockchain in context as much as possible while developing your skills. Don't go off the deep end into some generic JavaScript or C++ tutorials that have nothing to do with blockchain. You will inevitably have to do that to some extent, but try to minimize it.
+
+I'd recommend B9Lab. <a href:https://academy.b9lab.com/>academy.b9lab.com</a>
+
+At minimum, they have a great free course to get you started in the world of Ethereum.
+If you want to then continue, there's a bunch of good paid courses to take.
+That in conjunction with a free coding course in Javascript from someone like Codecademy would be a good way to get the ball rolling. https://www.codecademy.com/learn/javascript
+[–]naterush1997 2 points 4 months ago 
+I got into Ethereum a couple months ago - coding and all. 
+I'm no expert, but here are some tips that could be helpful from beginner to beginner.
+<ol>	
+  <li>	Learn the basics. Use Khan Academy or Code Academy or one of the other hundred free online courses. 
+  This may seem like an unnecessary step, but the resources on these languages are fantastic - learning what
+  functions and variables and objects are will be incredibly helpful when you jump into coding on the blockchain,
+  and trying to enter the space without this knowledge will make things frustrating and unnecessarily hard. 
+	<li>	Learn the basics - 2. If you're pretty knowledgeable about Ethereum, you can skip this step. Coding on
+  the blockchain isn't really the same as writing a simple script that simulates Pong - there is a whole layer of
+  knowledge that is now necessary. Having a deep understanding of the technology behind Ethereum will be super
+  helpful when you're trying to figure out what your programs can and can't do, what information is realistic to
+  store, and how to keep your contracts safe. 
+	<li>	In terms of actual coding on the Ethereum blockchain, I would recommend learning Solidity. It's one of a couple programming languages (Viper, Serpent, LLL) that compile and run on the EVM, and it seems to be one of the most popular. There is a ton of resources but there's also a super active development community (who, in my experience, are really amazing and helpful, especially to people who are just getting started). I started by watching this tutorial on YouTube. I found it to be a pretty good introduction (there are other tutorials like this online, but many of them cost money, and I thought this was pretty good). From there, read the solidity documentation! It's thorough and has a ton of examples to help you really see what you are capable of when coding on the blockchain. 
+	<li> Learn to use Truffle or another or another development framework. This will allow you to easily write, deploy, and test your dapps. It makes the whole process much easier, faster and safer (I regret not using Truffle from the beginning.) 
+	<li>	Make a dapp. Start off simple, just make something that you think might be cool or people will find interesting. Post it on this subreddit - or on /r/ethdev - and people will give feedback. EDIT: Ethereum Stack Exchange is also a great place to ask for help if you get stuck. Learn from your mistakes, and make another dapp, this one a little more complicated. 
+</ol>
+Read the Ethereum homestead documentation.
+</body>
+</html>
