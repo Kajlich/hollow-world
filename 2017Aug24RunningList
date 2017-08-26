@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>Jammed together this Reddit convo and headed out from there</h>
+<h2>
+I've changed my plan slighty for this page. The following is a running list of opinions and 
+resources of what i should do. Hopefully I'll go back and add links or credit/citate the advise.
+Then, I'll post a curated list of the best advice and resources here: LINK DAT SHIT
+Jammed together this Reddit convo and headed out from there</h>
 You say you want to contribute in this space but learning a programming language by itself definitely won't be enough.
 Instead, what you have to learn is how to think about new problems; Where to find new problems to solve, what problems are worth solving, and what aren't. Because when you think about it (and Peter Todd said this best): mostly all blockchain devs are really just academics who have the added ability that they can also implement their ideas / research as production code.
 As for technical skills - they will still be necessary. Programming will be how you solve real world problems Pick up something and stick with it.
@@ -41,5 +45,7 @@ I'm no expert, but here are some tips that could be helpful from beginner to beg
 	<li>	Make a dapp. Start off simple, just make something that you think might be cool or people will find interesting. Post it on this subreddit - or on /r/ethdev - and people will give feedback. EDIT: Ethereum Stack Exchange is also a great place to ask for help if you get stuck. Learn from your mistakes, and make another dapp, this one a little more complicated. 
 </ol>
 Read the Ethereum homestead documentation.
+
+read a book or two about patterns and architecture in your chosen language.
 </body>
 </html>
